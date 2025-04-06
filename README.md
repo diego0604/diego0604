@@ -1,12 +1,12 @@
 # Hi there, I'm Diego Alejandro Salazar 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular+Specialist;SQL+Server+Expert" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular;SQL+Server+Expert" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="/placeholder.svg?height=250&width=300">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 - 🔭 I'm a passionate Fullstack Developer specializing in .NET and Angular
 - 💼 Building robust and scalable web applications

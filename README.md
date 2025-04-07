@@ -1,7 +1,7 @@
 # Hi there, I'm Diego Alejandro Salazar 👋
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular;SQL+Server+Expert" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular;SQL+Server" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About Me

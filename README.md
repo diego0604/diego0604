@@ -1,4 +1,5 @@
-%20Alejandro%20Salazar&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header banner" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Diego%20Alejandro%20Salazar&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header banner" />
 </div>
 
 <div align="center">
@@ -30,9 +31,9 @@
   - 🔭 Building enterprise applications with **.NET Core** and **Angular**
   - 💼 Developing robust and scalable web applications with modern architecture
   - 🌱 Continuously learning and improving my skills in cloud technologies
-  - 💬 Specializing in SQL Server database design and optimization
+  - 💬 SQL Server database design and optimization
   - 📊 Creating efficient data solutions and business intelligence reports
-  - 🚀 Implementing CI/CD pipelines and DevOps practices
+  
   
   <div align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -47,7 +48,6 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
     <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET">
     <img src="https://img.shields.io/badge/Web_API-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Web API">
-    <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST">
     <h3>🌐 Frontend Development</h3>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -55,7 +55,6 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
     <h3>🗄️ Database</h3>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
     <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework">
@@ -81,7 +80,6 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=diego0604&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Diego's GitHub stats" height="170">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego0604&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" height="170">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diego0604&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="700">
   </div>
   
   <div align="center">

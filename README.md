@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Diego%20Alejandro%20Salazar&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header banner" />
+  <img src="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image.png" alt="header banner" />
 </div>
 
 <div align="center">

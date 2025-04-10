@@ -1,14 +1,19 @@
 <div align="center">
- 
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-dark.png">
-  <img alt="header banner" src="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-dark.png">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-dark.png">
+    <img alt="header banner" src="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-dark.png">
+  </picture>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular+Specialist;SQL+Server+Expert" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular+Specialist;SQL+Server+Expert&color=FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular+Specialist;SQL+Server+Expert&color=000000">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular+Specialist;SQL+Server+Expert">
+    </picture>
+  </a>
 </div>
 
 <div align="center">
@@ -26,11 +31,19 @@
 <details open>
   <summary><h2>👨‍💻 About Me</h2></summary>
   <div align="center">
-    <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+      <source media="(prefers-color-scheme: light)" srcset="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+      <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    </picture>
   </div>
   
   <p align="left">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> I'm a passionate Fullstack Developer with expertise in:
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+      <source media="(prefers-color-scheme: light)" srcset="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+      <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+    </picture> I'm a passionate Fullstack Developer with expertise in:
   </p>
   
   - 🔭 Building enterprise applications with **.NET Core** and **Angular**
@@ -39,9 +52,12 @@
   - 💬 SQL Server database design and optimization
   - 📊 Creating efficient data solutions and business intelligence reports
   
-  
   <div align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+    </picture>
   </div>
 </details>
 
@@ -75,19 +91,35 @@
   </div>
   
   <div align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+    </picture>
   </div>
 </details>
 
 <details open>
   <summary><h2>📊 GitHub Stats</h2></summary>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=diego0604&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Diego's GitHub stats" height="170">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego0604&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" height="170">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=diego0604&show_icons=true&theme=radical&border_radius=10&hide_border=true" alt="Diego's GitHub stats" height="170">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=diego0604&show_icons=true&theme=default&border_radius=10&hide_border=true" alt="Diego's GitHub stats" height="170">
+      <img src="https://github-readme-stats.vercel.app/api?username=diego0604&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Diego's GitHub stats" height="170">
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diego0604&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" height="170">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diego0604&layout=compact&theme=default&border_radius=10&hide_border=true" alt="Top Languages" height="170">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego0604&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" height="170">
+    </picture>
   </div>
   
   <div align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+    </picture>
   </div>
 </details>
 
@@ -102,7 +134,11 @@
   </div>
   
   <div align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+    </picture>
   </div>
 </details>
 
@@ -117,7 +153,12 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=100&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,6,9&height=100&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  </picture>
 </div>
 
 <!-- Last updated: April 2025 -->
+```

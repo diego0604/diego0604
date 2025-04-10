@@ -9,9 +9,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular+Specialist;SQL+Server+Expert&color=FFFFFF">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular+Specialist;SQL+Server+Expert&color=000000">
-      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular+Specialist;SQL+Server+Expert">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular;SQL+Server&color=FFFFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular;SQL+Server&color=00F000">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;.NET+%2B+Angular;SQL+Server">
     </picture>
   </a>
 </div>

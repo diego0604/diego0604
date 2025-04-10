@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image.png" alt="header banner" />
+ 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-dark.png">
+  <img alt="header banner" src="https://github.com/diego0604/diego0604/blob/main/assets/img/github-header-image-dark.png">
+</picture>
 </div>
 
 <div align="center">
